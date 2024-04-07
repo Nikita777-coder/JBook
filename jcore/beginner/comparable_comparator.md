@@ -249,7 +249,7 @@ class Student {
 }
 
 // psvm
-Map<Person, String> treeMap = new TreeMap<>(); 
+Map<Student, String> treeMap = new TreeMap<>(); 
 ```
 
 **Ответ**:
